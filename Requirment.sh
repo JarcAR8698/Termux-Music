@@ -7,3 +7,4 @@ pkg install ruby -y
 gem install lolcat -y
 pkg install python2 -y
 pip install youtube-dl
+figlet Now It Time For Termux-Music | lolcat
